@@ -8,7 +8,7 @@
     "settings": {
       "clients": [
         {
-          "id": "aa09f6da-7b11-46bb-886c-4977fe53eb95",
+          "id": "aa09f6da-7b11-46bb-886c-4977fe53e45",
           "alterId": 64,
           "security": "none"
         }
